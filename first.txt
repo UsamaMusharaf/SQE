@@ -4,3 +4,5 @@ Software Quality Engineering
 
 
 Deep Learning
+
+Generative AI
